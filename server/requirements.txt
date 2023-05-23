@@ -1,0 +1,12 @@
+FLASK==2.1.0
+flask-cors
+flask-restful
+flask-wtf
+gunicorn
+redis
+pymongo
+boto3
+botocore
+nltk
+mrjob
+textract

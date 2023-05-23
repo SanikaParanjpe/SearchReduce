@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  padding: 40px;
+  width: 100%;
+  height: 100%;
+}
+
+.left-container {
+  float: left;
+  width: 25%;
+  padding-right: 20px;
+}
+
+.right-container {
+  float: right;
+  width: 75%;
+  padding-left: 20px;
+}
